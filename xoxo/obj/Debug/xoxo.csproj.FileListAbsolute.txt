@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\form\xoxo\xoxo\bin\Debug\xoxo.exe.config
+C:\Users\Administrator\Desktop\form\xoxo\xoxo\bin\Debug\xoxo.exe
+C:\Users\Administrator\Desktop\form\xoxo\xoxo\bin\Debug\xoxo.pdb
+C:\Users\Administrator\Desktop\form\xoxo\xoxo\obj\Debug\xoxo.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\form\xoxo\xoxo\obj\Debug\xoxo.Form1.resources
+C:\Users\Administrator\Desktop\form\xoxo\xoxo\obj\Debug\xoxo.Properties.Resources.resources
+C:\Users\Administrator\Desktop\form\xoxo\xoxo\obj\Debug\xoxo.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\form\xoxo\xoxo\obj\Debug\xoxo.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\form\xoxo\xoxo\obj\Debug\xoxo.exe
+C:\Users\Administrator\Desktop\form\xoxo\xoxo\obj\Debug\xoxo.pdb
